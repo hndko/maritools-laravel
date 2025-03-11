@@ -101,8 +101,8 @@
                                 <div class="dropdown-menu">
                                     <div class="dropdown-menu-columns">
                                         <div class="dropdown-menu-column">
-                                            <a class="dropdown-item" href="./alerts.html">
-                                                Alerts
+                                            <a class="dropdown-item" href="{{ route('cek.index') }}">
+                                                Cek Game/Bank/E-Wallet
                                             </a>
                                         </div>
                                     </div>
