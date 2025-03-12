@@ -104,6 +104,9 @@
                                             <a class="dropdown-item" href="{{ route('cek.index') }}">
                                                 Cek Game/Bank/E-Wallet
                                             </a>
+                                            <a class="dropdown-item" href="{{ route('cek_region.index') }}">
+                                                Cek Region MLBB
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
